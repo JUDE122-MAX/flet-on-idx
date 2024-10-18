@@ -1,0 +1,8 @@
+{
+  "name": "Flet",
+  "description": "Creates simple Flet counter app just like flutter",
+  "categories": ["Backend"],
+  "icon": "https://flet.dev/img/logo.svg",
+  "publisher": "Jude Etuka",
+  "params": []
+}
